@@ -1,6 +1,6 @@
 # Hello! 👋
 
-Welcome to my GitHub profile. I'm David Morrison, a solutions architect and tech lead passionate about crafting thoughtful, forward-thinking web solutions. With 20+ years in full-stack development—including deep Drupal expertise, Laravel, React, and AI integrations—I approach every project as an opportunity to solve meaningful problems while mentoring teams and strengthening technical foundations. Currently available for new opportunities.
+Welcome to my GitHub profile. I'm David Morrison, a full-stack web applications developer, solutions architect, and tech lead passionate about crafting thoughtful, forward-thinking web solutions. With 20+ years in full-stack development—including deep Drupal expertise, Laravel, React, and AI integrations—I approach every project as an opportunity to solve meaningful problems while mentoring teams and strengthening technical foundations. Currently available for new opportunities.
 
 ## About My Repositories
 
