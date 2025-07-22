@@ -26,7 +26,7 @@ When contacting me, please include:
 
 ## Current Focus
 
-I am currently devoting my time to deep-diving into AI integrations, optimized vibe & context coding practices, and Drupal 11 (including novel contrib modules development). I'm also working with headless applications with React & Vue.js, distributable project containerization, AWS platforms with IAC and Terraform management, balanced TDD and BDD dev workflow practices, CI/CD with Jenkins & Ansible, and backend management with Node.js, Angular, and Python.
+I am currently devoting my time to deep-diving into AI integrations, optimized vibe & context coding practices, and Drupal 11 (including novel contrib modules development) and refreshing to current with Laravel. I'm also working heavily on headless applications with React & Vue.js, GraphQL & TypeScript, distributable project containerization, AWS platforms with IAC and Terraform management, balanced TDD and BDD dev workflow practices, CI/CD with Jenkins & Ansible, and backend management with Node.js, Angular, and Python.
 
 ## Public Contributions
 
